@@ -12,3 +12,8 @@
     "parcel": "^2.7.0"
   }
 }
+{
+  "scripts": {
+    "build": "[my-framework] build --output public"
+  }
+}
